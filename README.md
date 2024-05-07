@@ -18,3 +18,13 @@ The HP 1600A Logic State Analyzer is designed to aid in the analyses of digital 
 * [atkelar-pt1](https://www.youtube.com/watch?v=-43Ic0IyNNA)
 * [atkelar-py2](https://www.youtube.com/watch?v=W7Az_2ZxYvM&t=38s)
 * [curious-marc](https://www.curiousmarc.com/instruments/hp-1607a-logic-analyzer)
+
+### Essential companions
+
+![8016a](/measurement/8016a.jpg)
+
+_Descriptions of features_
+
+* [azure](https://www.azurelectronics.com/HP%208016A%20Word%20Generator.htm)
+* [skl](https://paulcarbone.com/blog/hp-8016a-word-generator/)
+* [gens](https://www.hpmemoryproject.org/wb_pages/wall_b_page_10e.htm)
