@@ -14,6 +14,8 @@ Here is a tabular-format sample of the data flowing through the _ideal_ algorith
 
 ![1600a](/images/lsa_loganim.gif)
 
+More to come on this body of research.
+
 ### Links
 
 * [Microcode Labs](https://microcorelabs.wordpress.com/2024/03/02/hp-1600a-and-1607a-logic-state-analyzer/)
