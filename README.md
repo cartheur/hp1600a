@@ -10,6 +10,8 @@ A new logic state analyzer has expanded capabilities that speed the location of 
 
 The HP 1600A Logic State Analyzer is designed to aid in the analyses of digital system which depend on sequences of logic states to control their operation. The 1600A provides a functional display of `one`s and `zero`s in a tabular format of logic states with up to 16 variables in a digital system -- up to 32 variables may be displayed when a Model [1607A](https://github.com/cartheur/hp1607a) Logic State Analyzer is used with the 1600A in `bus` mode.
 
+Here is a tabular-format sample of the data flowing through the _ideal_ algorithm:
+
 ![1600a](/images/lsa_loganim.gif)
 
 ### Links
