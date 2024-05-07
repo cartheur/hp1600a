@@ -18,6 +18,7 @@ The HP 1600A Logic State Analyzer is designed to aid in the analyses of digital 
 * [atkelar-pt1](https://www.youtube.com/watch?v=-43Ic0IyNNA)
 * [atkelar-py2](https://www.youtube.com/watch?v=W7Az_2ZxYvM&t=38s)
 * [curious-marc](https://www.curiousmarc.com/instruments/hp-1607a-logic-analyzer)
+* [archives](https://archive.org/details/@curiousmarc)
 
 ### Essential companions
 
