@@ -23,7 +23,7 @@ The HP 1600A Logic State Analyzer is designed to aid in the analyses of digital 
 ### Essential companions
 
 ![8016a](/measurement/8016a.jpg)
-
+![8080a](/measurement/8080a.jpg)
 _Descriptions of features_
 
 * [azure](https://www.azurelectronics.com/HP%208016A%20Word%20Generator.htm)
