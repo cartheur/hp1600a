@@ -9,3 +9,5 @@ The HP 1600A Logic State Analyzer is designed to aid in the analyses of digital 
 ### Links
 
 * [Microcode Labs](https://microcorelabs.wordpress.com/2024/03/02/hp-1600a-and-1607a-logic-state-analyzer/)
+* [atkelar-pt1](https://www.youtube.com/watch?v=-43Ic0IyNNA)
+* [atkelar-py2](https://www.youtube.com/watch?v=W7Az_2ZxYvM&t=38s)
